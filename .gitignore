@@ -166,3 +166,5 @@ logs/
 *.temp
 
 *.html
+
+*.log
